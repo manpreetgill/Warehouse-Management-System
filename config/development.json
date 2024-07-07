@@ -1,0 +1,15 @@
+{
+    "db-avancer": {
+        "host": "localhost"
+    },
+    "db-log": {
+        "host": "localhost"
+    },
+    "db-analytics": {
+        "host": "localhost"
+    },
+    "logger": {
+        "level": "debug",
+        "logOnConsole": true
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "db-avancer": {
+        "name": "aider1"
+    },
+    "db-log": {
+        "name": "logs"
+    },
+    "db-analytics": {
+        "name": "analytics"
+    }
+}

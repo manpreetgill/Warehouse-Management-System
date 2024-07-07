@@ -1,0 +1,12 @@
+{
+    "userLogin": {
+        "dbMessage": "Error At Login",
+        "returnMessage": "INTERNAL SERVER ERROR",
+        "statusCode": "500"
+    },
+    "userDoesnotExistWarning": {
+        "dbMessage": "Username not exist",
+        "returnMessage": "No user with this username exist or you may have access blocked! contact warehouse administrator",
+        "statusCode": "404"
+    }
+}
